@@ -1,0 +1,11 @@
+#acesta este un comment.
+*.exe
+*.cbp
+.gitignore
+
+
+
+#foldere intregi
+bin/
+obj/
+
